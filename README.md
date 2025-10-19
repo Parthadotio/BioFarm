@@ -30,7 +30,7 @@ BioFarm is a comprehensive web application designed to streamline agricultural o
 ## ✨ Features
 
 - 🚀 **Fast Development** - Lightning-fast HMR (Hot Module Replacement) with Vite
-- ⚛️ **React 18** - Leverage the latest React features
+- ⚛️ **React 19** - Leverage the latest React features
 - 🎨 **Modern UI** - Clean and responsive user interface
 - 📱 **Responsive Design** - Works seamlessly across all devices
 - 🔧 **ESLint Integration** - Code quality and consistency
