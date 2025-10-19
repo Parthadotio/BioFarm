@@ -2,7 +2,7 @@
 
 A modern web application built with React and Vite for agricultural and farming management solutions.
 
-[![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/React-19.x-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF.svg)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
