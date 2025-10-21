@@ -80,7 +80,9 @@ const Navbar = () => {
               <span>Community</span>
             </a>
             <button className="cursor-pointer bg-green-300 text-black rounded-full h-10">
-              <span>Sign in</span>
+              <a href="./login">
+                <span>Sign in</span>
+              </a>
             </button>
           </div>
         </div>
