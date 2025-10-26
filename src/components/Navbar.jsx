@@ -5,7 +5,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false)
 
   return (
-    <header className="fixed bg-transparent w-full">
+    <header className="fixed backdrop-blur-xl shadow-md w-full">
       <div
         className={`header w-full flex items-center justify-between md:justify-between p-6 md:px-20 h-20 font-inconsolata ${
           open ? "bg-black" : ""
@@ -34,17 +34,19 @@ const Navbar = () => {
           <a href="#home">
             <span>Home</span>
           </a>
-          <a href="#about">
-            <span>About</span>
-          </a>
           <a href="#marketplace">
             <span>Marketplace</span>
           </a>
           <a href="#community">
             <span>Community</span>
           </a>
+          <a href="#about">
+            <span>About</span>
+          </a>
           <button className="bg-lime-300 rounded-full p-2 items-center justify-center cursor-pointer">
-            Login
+            <a href="./login">
+              <span>Login</span>
+            </a>
           </button>
         </div>
 
@@ -70,18 +72,18 @@ const Navbar = () => {
             <a href="#home">
               <span>Home</span>
             </a>
-            <a href="#about">
-              <span>About</span>
-            </a>
             <a href="#marketplace">
               <span>Marketplace</span>
             </a>
             <a href="#community">
               <span>Community</span>
             </a>
+            <a href="#about">
+              <span>About</span>
+            </a>
             <button className="cursor-pointer bg-green-300 text-black rounded-full h-10">
-              <a href="./login">
-                <span>Sign in</span>
+              <a href="./login" target="_blank">
+                <span>Login</span>
               </a>
             </button>
           </div>

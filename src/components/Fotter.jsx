@@ -8,22 +8,13 @@ const Fotter = () => {
       </div>
       <div className="flex items-center justify-around gap-6 p-6 w-full h-full">
         <div className="bg-red-500 p-2 text-wrap">
-          a Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-          Consequuntur laborum blanditiis natus illo iusto ex saepe quisquam,
-          repellat cupiditate quasi veritatis ullam laudantium reprehenderit
-          assumenda accusantium aut porro aliquam aliquid.
+          a
         </div>
         <div className="bg-violet-500 p-2 text-wrap">
-          b Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Perspiciatis cumque excepturi suscipit adipisci saepe officia dicta
-          quos rerum odit explicabo voluptates dolore facilis doloremque
-          sapiente, asperiores expedita animi architecto aspernatur.
+          b
         </div>
         <div className="bg-yellow-300 p-2  text-wrap ">
-          c Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident
-          atque dolor iure repellat qui inventore velit repudiandae culpa
-          excepturi dolores assumenda, doloremque beatae similique dicta?
-          Debitis quasi unde vitae provident.
+          c
         </div>
         <div className="p-2 text-wrap">
           <h2>Contact</h2>

@@ -6,14 +6,12 @@ const Home = () => {
       <section id="home" className="h-screen flex items-center">
         <div className="w-full flex items-center justify-start">
           <div className="flex flex-col items-start p-6 max-w-4xl">
-            <div className="bg-transparent backdrop-blur-3xl rounded-full text-white">
-              <h4 className="flex justify-center items-center  rounded-full p-3">
+              <h4 className="bg-transparent backdrop-blur-3xl shadow-xl text-white flex justify-center items-center rounded-full p-3">
                 Sustainable Farming Tech
               </h4>
-            </div>
-
             <h6 className="font-bold text-7xl text-white">
               Bringing Innovation to <br></br> Your Farming Journey
+              <span className="animate-pulse">.</span>
             </h6>
             <h2 className="text-white pt-6  pb-6 text-xl">
               From Precision agriculture to sustainable practices, we help yo to
@@ -23,17 +21,24 @@ const Home = () => {
             </h2>
             <div>
               <button className="bg-lime-300 rounded-full flex itemes-center justify-center p-3 cursor-pointer gap-2">
-                Get sarted <i className="ri-arrow-right-line bg-black rounded-full w-6 text-white"></i>
+                Get sarted{" "}
+                <i className="ri-arrow-right-line bg-black rounded-full w-6 text-white"></i>
               </button>
             </div>
           </div>
         </div>
       </section>
 
-      <section id="marketplace" className="h-screen flex items-center justify-center">
+      <section
+        id="marketplace"
+        className="h-screen flex items-center justify-center"
+      >
         Marketplace
       </section>
-      <section id="community" className="h-screen flex items-center justify-center">
+      <section
+        id="community"
+        className="h-screen flex items-center justify-center"
+      >
         Community
       </section>
 
