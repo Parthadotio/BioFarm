@@ -1,4 +1,4 @@
-# 🌱 BioFarm
+# BioFarm
 
 A modern web application built with React and Vite for agricultural and farming management solutions.
 
@@ -6,7 +6,7 @@ A modern web application built with React and Vite for agricultural and farming 
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF.svg)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -23,20 +23,20 @@ A modern web application built with React and Vite for agricultural and farming 
 - [License](#license)
 - [Contact](#contact)
 
-## 🌾 About
+## About
 
 BioFarm is a comprehensive web application designed to streamline agricultural operations and farm management. Built with modern web technologies, it provides an intuitive interface for farmers and agricultural professionals to manage their farming activities efficiently.
 
-## ✨ Features
+## Features
 
-- 🚀 **Fast Development** - Lightning-fast HMR (Hot Module Replacement) with Vite
-- ⚛️ **React 19** - Leverage the latest React features
-- 🎨 **Modern UI** - Clean and responsive user interface
-- 📱 **Responsive Design** - Works seamlessly across all devices
-- 🔧 **ESLint Integration** - Code quality and consistency
-- 🌐 **Progressive Web App Ready** - Can be extended to work offline
+- **Fast Development** - Lightning-fast HMR (Hot Module Replacement) with Vite
+- **React 19** - Leverage the latest React features
+- **Modern UI** - Clean and responsive user interface
+- **Responsive Design** - Works seamlessly across all devices
+- **ESLint Integration** - Code quality and consistency
+- **Progressive Web App Ready** - Can be extended to work offline
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Framework:** React 19.x
 - **Build Tool:** Vite 5.x
@@ -44,7 +44,7 @@ BioFarm is a comprehensive web application designed to streamline agricultural o
 - **Linting:** ESLint with recommended rules
 - **Package Manager:** npm/yarn/pnpm
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -101,7 +101,7 @@ pnpm dev
 
 The application will be available at `http://localhost:5173` (default Vite port).
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 BioFarm/
@@ -120,14 +120,14 @@ BioFarm/
 └── README.md           # Project documentation
 ```
 
-## 📜 Scripts
+## Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build locally
 - `npm run lint` - Run ESLint to check code quality
 
-## 💻 Development
+## Development
 
 ### Code Style
 
@@ -154,7 +154,7 @@ This template uses `@vitejs/plugin-react` which uses Babel for Fast Refresh. If 
 
 To switch, install the SWC plugin and update your `vite.config.js`.
 
-## 🏗️ Building for Production
+## Building for Production
 
 Create an optimized production build:
 
@@ -170,7 +170,7 @@ Preview the production build locally:
 npm run preview
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -189,17 +189,17 @@ Contributions are welcome! Please follow these steps:
 - Test your changes thoroughly
 - Update documentation as needed
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
+## Contact
 
 **Partha** - [@Parthadotio](https://github.com/Parthadotio)
 
 Project Link: [https://github.com/Parthadotio/BioFarm](https://github.com/Parthadotio/BioFarm)
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [React](https://reactjs.org/) - The web framework used
 - [Vite](https://vitejs.dev/) - Next generation frontend tooling
@@ -209,5 +209,5 @@ Project Link: [https://github.com/Parthadotio/BioFarm](https://github.com/Partha
 ---
 
 <div align="center">
-Made with ❤️ for the farming community
+Made with ❤️ in india
 </div>
